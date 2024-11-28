@@ -1,0 +1,54 @@
+.body {
+  background-color: rgb(233, 180, 189);
+}
+.first {
+  background-color: rgba(117, 198, 182, 0.793);
+  color: white;
+  padding: 10px 50px 10px 350px;
+  margin-bottom: 20px;
+}
+.second {
+  display: flex;
+}
+.aside {
+  background-color: aqua;
+  height: 300px;
+  width: 150px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  padding: 4px 30px 4px 50px;
+  color: white;
+  text-align: center;
+}
+.article {
+  background-color: rgb(208, 122, 104);
+  height: 308px;
+  width: 500px;
+  color: white;
+  text-align: center;
+}
+.image {
+  display: flex;
+  padding-left: 25px;
+  gap: 20px;
+  height: 140px;
+  width: 450px;
+  padding-top: 100px;
+}
+.image1 {
+  background-color: grey;
+  width: 500px;
+}
+.image2 {
+  background-color: gray;
+  width: 500px;
+}
+.image3 {
+  background-color: grey;
+  width: 500px;
+}
+.last {
+  background-color: rgba(117, 198, 182, 0.793);
+  padding: 10px 50px 10px 350px;
+  color: white;
+}

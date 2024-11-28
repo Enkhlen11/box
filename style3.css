@@ -1,0 +1,62 @@
+.body {
+  background-color: rgb(64, 64, 72);
+  display: flex;
+}
+.first {
+  background-color: rgb(102, 183, 102);
+  width: 200px;
+  height: 600px;
+  margin-right: 20px;
+}
+.second {
+}
+.third {
+  background-color: rgb(102, 183, 102);
+  height: 200px;
+  width: 600px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+.third1 {
+  display: flex;
+}
+.third11 {
+  background-color: yellow;
+  height: 180px;
+  width: 290px;
+  display: flex;
+  margin-bottom: 20px;
+}
+.third12 {
+  background-color: red;
+  height: 180px;
+  width: 290px;
+  margin-left: 20px;
+}
+.third2 {
+  display: flex;
+}
+.third21 {
+  background-color: red;
+  height: 180px;
+  width: 290px;
+  margin-bottom: 20px;
+}
+.third22 {
+  background-color: yellow;
+  height: 180px;
+  width: 290px;
+  margin-left: 20px;
+}
+
+.last1 {
+  background-color: red;
+  height: 200px;
+  width: 200px;
+  margin-bottom: 20px;
+}
+.last2 {
+  background-color: rgb(102, 183, 102);
+  height: 380px;
+  width: 200px;
+}
